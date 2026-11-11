@@ -27,7 +27,7 @@ class Pez extends Animal {
 }
 class PruebaAnimalPez {
     public static void main(String[] args) {
-        Pez pez = new Pez("Ejercicio2.Pez payaso", "Salada");
+        Pez pez = new Pez("Pez payaso", "Salada");
         pez.mostrarEspecie();
     }
 }
